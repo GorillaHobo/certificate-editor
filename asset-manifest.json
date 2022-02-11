@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/certificate-editor/static/css/main.d3afddb1.css",
+    "main.js": "/certificate-editor/static/js/main.fc6f7254.js",
+    "index.html": "/certificate-editor/index.html",
+    "main.d3afddb1.css.map": "/certificate-editor/static/css/main.d3afddb1.css.map",
+    "main.fc6f7254.js.map": "/certificate-editor/static/js/main.fc6f7254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3afddb1.css",
+    "static/js/main.fc6f7254.js"
+  ]
+}
